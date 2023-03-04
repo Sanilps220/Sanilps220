@@ -1,5 +1,5 @@
 # I am Sanil Ps👋
--🔭 I’m Web a Selfthought web developer.
+-🔭 I’m a Selfthought web developer.
 -🌱 I’m currently learning Reactjs.
 -📫 How to reach me: @sanilps220@gmail.com.
 -💬 Ask me about Web and Javascript.
