@@ -1,8 +1,11 @@
-# I am Sanil Ps👋
--🔭 I’m a Selfthought web developer.
--🌱 I’m currently learning Reactjs.
+# Hi.. I am Sanil Ps👋
+-🔭 I’m a Selfthought web developer 
+-🇮🇳 from kerala.
+-🌎 javascript is my fav. 
+-🌱 Currently i'm learning Reactjs and nextjs.
 -📫 How to reach me: @sanilps220@gmail.com.
--💬 Ask me about Web and Javascript.
+-💬 Ask me about Web developing and Javascript.
+-😄 Pronouns: do typescript save the world. 
 -⚡ Fun fact: coding and learnig is like a sea.
 <!--
 **Sanilps220/Sanilps220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
